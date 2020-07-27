@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "ES2015",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "target": "ES2015",
+    "sourceMap": true,
+    "outDir": "dist"
+  },
+  "include": [
+    "./src/image-interact-editor.ts",
+    "./src/image-interact-viewer.ts"
+  ]
+}
